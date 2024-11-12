@@ -15,7 +15,6 @@ function App() {
   return (
     <>
       <NavBar />
-      <Home />
       <Routes>
         <Route path="/Home" element={<Home />} />
         <Route path="/Tenis" element={<Tenis />} />
