@@ -21,7 +21,7 @@ export default function NavBar() {
                 </div>
                 <div className='section-items'>
                     <ul>
-                        <li> <Link to="/"> HOME</Link></li>
+                        <li> <Link to="/Home"> HOME</Link></li>
                         <li> <Link to="/Tenis"> TENIS</Link> </li>
                         <li> <Link to="/Roupas"> ROUPAS</Link> </li>
                         <li> <Link to="/Acessorios"> ACESSÓRIOS</Link> </li>
